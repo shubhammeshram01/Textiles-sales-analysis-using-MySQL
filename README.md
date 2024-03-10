@@ -1,7 +1,7 @@
 # Textiles sales analysis using SQL
 # Description
 Texture Tales Clothing Company prides itself on providing an optimized range of clothing and lifestyle wear for the modern adventurer. Analyze their sales performance and generate a basic financial report to share with the wider business.
-# Case Study Questions
+# Questions for Analysis 
 1) What was the total quantity sold for all products?
 2) What is the total generated revenue for all products before discounts?
 3) What was the total discount amount for all products?
@@ -15,8 +15,9 @@ Texture Tales Clothing Company prides itself on providing an optimized range of 
 11) What is the total quantity, revenue, and discount for each category?
 12) What is the top-selling product for each category?
 
-# Tool used to analyze 
-MySQL
+# Tool used to analyze sales 
+* MySQL
+  
 # Schema
 <img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/Schema%20Textile.png">
 
@@ -46,7 +47,7 @@ MySQL
 * Total entries -15,095
 * Total columns - 7
 
-| PDF File of Textile sales Case Study | SQL File of Textile sales Case Study |
+| PDF File of Textile sales analysis | SQL File of Textile sales analysis |
 |-|-|
 |[PDF Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | [SQL Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.sql) |
 
