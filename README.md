@@ -41,7 +41,8 @@ MySQL
 * Total columns - 4
    
 4) sales table
-<img src = "">
+<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/sales.png">
+
 * Total entries -15,095
 * Total columns - 7
 
