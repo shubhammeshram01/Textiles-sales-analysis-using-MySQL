@@ -25,18 +25,25 @@ MySQL
 1) product_details table
 <img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product%20details.png">
    
-Total entries - 12
-Total columns - 9
+* Total entries - 12
+* Total columns - 9
 
-3) product_prices table
-   Total entries - 12
-   Total columns - 3
-4) product_hierarchy table
-   Total entries - 18
-   Total columns - 4
-5) sales table
-   Total entries -15,095
-   Total columns - 7
+2) product_prices table
+<img src = "">
+
+* Total entries - 12
+* Total columns - 3
+   
+3) product_hierarchy table
+<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product%20details.png">
+
+* Total entries - 18
+* Total columns - 4
+   
+4) sales table
+<img src = "">
+* Total entries -15,095
+* Total columns - 7
 
 
 
