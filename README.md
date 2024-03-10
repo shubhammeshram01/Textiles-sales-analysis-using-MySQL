@@ -48,7 +48,7 @@ MySQL
 
 | PDF File of Textile sales Case Study | SQL File of Textile sales Case Study |
 |-|-|
-|[PDF Link]([https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf](https://drive.google.com/file/d/1lQHk6Pe15irEygpE-NLppzFxfQVdA20r/view?usp=sharing)https://drive.google.com/file/d/1lQHk6Pe15irEygpE-NLppzFxfQVdA20r/view?usp=sharing) | [SQL Link]() |
+|[PDF Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf](https://drive.google.com/file/d/1lQHk6Pe15irEygpE-NLppzFxfQVdA20r/view?usp=sharing)https://drive.google.com/file/d/1lQHk6Pe15irEygpE-NLppzFxfQVdA20r/view?usp=sharing) | [SQL Link]() |
 
 
 
