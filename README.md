@@ -22,7 +22,7 @@ MySQL
 
 # Description of tables in a schema. There are 4 tables.
 1) product_details table
-2) <img src = "">
+   <img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product%20details.png">
    Total entries - 12
    Total columns - 9
 3) product_prices table
