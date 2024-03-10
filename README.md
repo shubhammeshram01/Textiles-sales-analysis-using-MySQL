@@ -35,7 +35,7 @@ MySQL
 * Total columns - 3
    
 3) product_hierarchy table
-<img src = "">
+<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product_hierarchy.png">
 
 * Total entries - 18
 * Total columns - 4
