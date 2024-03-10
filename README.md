@@ -46,9 +46,9 @@ MySQL
 * Total entries -15,095
 * Total columns - 7
 
-| PDF File of Textile Case Study | SQL File of Case Study |
+| PDF File of Textile sales Case Study | SQL File of Textile sales Case Study |
 |-|-|
-|(https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | () |
+|[PDF Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | [SQL Link]() |
 
 
 
