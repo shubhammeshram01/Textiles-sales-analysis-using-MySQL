@@ -47,9 +47,9 @@ Texture Tales Clothing Company prides itself on providing an optimized range of 
 * Total entries -15,095
 * Total columns - 7
 
-| PDF File of Textile sales analysis | SQL File of Textile sales analysis |
+| PDF File of Textile sales analysis | SQL File of Textile sales analysis | My Linkedin | My Github
 |-|-|
-|[PDF Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | [SQL Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.sql) |
+|[PDF Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | [SQL Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.sql) | [Linkedin]() | [Github]()
 
 
 
