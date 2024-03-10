@@ -46,5 +46,9 @@ MySQL
 * Total entries -15,095
 * Total columns - 7
 
+| PDF File of Textile Case Study | SQL File of Case Study |
+|-|-|
+|() | () |
+
 
 
