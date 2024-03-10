@@ -1,4 +1,4 @@
-# Textiles sales analysis using MySQL
+# Textiles sales analysis using SQL
 # Description
 Texture Tales Clothing Company prides itself on providing an optimized range of clothing and lifestyle wear for the modern adventurer. Analyze their sales performance and generate a basic financial report to share with the wider business.
 # Case Study Questions
