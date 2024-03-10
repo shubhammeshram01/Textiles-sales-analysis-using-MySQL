@@ -22,25 +22,25 @@ MySQL
 
 # Description of tables in a schema. There are 4 tables.
 
-1) product_details table
+# 1) product_details table
 <img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product%20details.png">
    
 * Total entries - 12
 * Total columns - 9
 
-2) product_prices table
+# 2) product_prices table
 <img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product_prices.png">
 
 * Total entries - 12
 * Total columns - 3
    
-3) product_hierarchy table
+# 3) product_hierarchy table
 <img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product_hierarchy.png">
 
 * Total entries - 18
 * Total columns - 4
    
-4) sales table
+# 4) sales table
 <img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/sales.png">
 
 * Total entries -15,095
