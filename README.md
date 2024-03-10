@@ -20,5 +20,20 @@ MySQL
 # Schema
 <img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/Schema%20Textile.png">
 
+# Description of tables in a schema. There are 4 tables.
+1) product_details table
+2) <img src = "">
+   Total entries - 12
+   Total columns - 9
+3) product_prices table
+   Total entries - 12
+   Total columns - 3
+4) product_hierarchy table
+   Total entries - 18
+   Total columns - 4
+5) sales table
+   Total entries -15,095
+   Total columns - 7
+
 
 
