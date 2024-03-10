@@ -29,13 +29,13 @@ MySQL
 * Total columns - 9
 
 2) product_prices table
-<img src = "">
+<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product_prices.png">
 
 * Total entries - 12
 * Total columns - 3
    
 3) product_hierarchy table
-<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product%20details.png">
+<img src = "">
 
 * Total entries - 18
 * Total columns - 4
