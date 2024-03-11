@@ -1,6 +1,6 @@
 # Textiles sales analysis using SQL
 # Description
-Texture Tales Clothing Company prides itself on providing an optimized range of clothing and lifestyle wear for the modern adventurer. Analyze their sales performance and generate a basic financial report to share with the wider business.
+Textile Tales Clothing Company prides itself on providing an optimized range of clothing and lifestyle wear for the modern adventurer. Analyze their sales performance and generate a basic financial report to share with the wider business.
 # Questions for Analysis 
 1) What was the total quantity sold for all products?
 2) What is the total generated revenue for all products before discounts?
