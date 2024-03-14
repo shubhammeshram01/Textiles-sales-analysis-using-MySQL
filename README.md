@@ -24,28 +24,44 @@ Textile Tales Clothing Company prides itself on providing an optimized range of 
 # Description of tables in a schema. There are 4 tables.
 
 # 1) product_details table
-<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product%20details.png">
-   
+
 * Total entries - 12
 * Total columns - 9
 
+
+<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product%20details.png">
+   
+
+
 # 2) product_prices table
-<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product_prices.png">
 
 * Total entries - 12
 * Total columns - 3
+
+
+<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product_prices.png">
+
+
    
 # 3) product_hierarchy table
-<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product_hierarchy.png">
 
 * Total entries - 18
 * Total columns - 4
+
+  
+<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/product_hierarchy.png">
+
+
    
 # 4) sales table
-<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/sales.png">
 
 * Total entries -15,095
 * Total columns - 7
+
+  
+<img src = "https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/sales.png">
+
+
 
 | PDF File of Textile sales analysis | SQL File of Textile sales analysis | My Linkedin Profile | My Github Profile|
 |-|-|-|-|
