@@ -63,9 +63,9 @@ Textile Tales Clothing Company prides itself on providing an optimized range of 
 
 
 
-| PDF File of Textile sales analysis | SQL File of Textile sales analysis | My Linkedin Profile | My Github Profile|
-|-|-|-|-|
-|[PDF Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | [SQL Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.sql) | [Linkedin](https://www.linkedin.com/in/shubhammeshram01/) | [Github](https://github.com/shubhammeshram01)
+|Project Name| PDF File of Textile sales analysis | SQL File of Textile sales analysis | My Linkedin Profile | My Github Profile|
+|-|-|-|-|-|
+|Textile Sales Analysis using MySQL|[PDF Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | [SQL Link](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.sql) | [Linkedin](https://www.linkedin.com/in/shubhammeshram01/) | [Github](https://github.com/shubhammeshram01)
 
 
 
