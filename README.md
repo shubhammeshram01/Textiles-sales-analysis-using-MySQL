@@ -69,5 +69,11 @@ Textile Tales Clothing Company prides itself on providing an optimized range of 
 |Textile Sales Analysis using MySQL|[PDF File](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | [SQL File](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.sql) | [Linkedin](https://www.linkedin.com/in/shubhammeshram01/) | [Github](https://github.com/shubhammeshram01)
 
 # Enter your name :
-> Select * from employee ;
+> Select location,
+> count(location) as Total,
+> sum(salary) as Total_salary,
+> avg(salary) as Avg_salary
+> from employee
+> group by location
+> order by total desc ;
 
