@@ -70,10 +70,10 @@ Textile Tales Clothing Company prides itself on providing an optimized range of 
 
 # Enter your name :
 > Select location,
-> count(location) as Total,
-> sum(salary) as Total_salary,
-> avg(salary) as Avg_salary
-> from employee
-> group by location
-> order by total desc ;
+count(location) as Total,
+sum(salary) as Total_salary,
+avg(salary) as Avg_salary
+from employee
+group by location
+order by total desc ;
 
