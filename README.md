@@ -1,4 +1,10 @@
 # Textiles sales analysis using SQL
+
+## TABLE OF CONTENTS :
+-  [Project Overview](#project-overview)
+-  [Questions for Analysis](#questions-for-analysis)
+-  [Tool used to analyze sales](#tool-used-to-analyze-sales)
+
 # Description
 Textile Tales Clothing Company prides itself on providing an optimized range of clothing and lifestyle wear for the modern adventurer. Analyze their sales performance and generate a basic financial report to share with the wider business.
 # Questions for Analysis 
@@ -69,11 +75,14 @@ Textile Tales Clothing Company prides itself on providing an optimized range of 
 |Textile Sales Analysis using MySQL|[PDF File](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.pdf) | [SQL File](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.sql) | [Linkedin](https://www.linkedin.com/in/shubhammeshram01/) | [Github](https://github.com/shubhammeshram01)
 
 # Enter your name :
->> Select location,
-count(location) as Total,
-sum(salary) as Total_salary,
-avg(salary) as Avg_salary
-from employee
-group by location
-order by total desc ;
+1) What are yearly sales from store-A ?
+```sql
+
+SELECT location, count(*) as Total,
+sum(salary) as Tot_salary,
+avg(salary) as avg_salary
+FROM employee
+GROUP BY location
+ORDER BY total desc ;
+```
 
