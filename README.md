@@ -208,7 +208,7 @@ WHERE X.ds = 1 ;
 
 |Project Name| PDF File of Textile sales analysis | SQL File of Textile sales analysis | My Linkedin Profile | My Github Profile|
 |-|-|-|-|-|
-|Textile Sales Analysis using MySQL|[PDF File](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/Textile%20SQL.pdf) | [SQL File](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/textile%20sales.sql) | [Linkedin](https://www.linkedin.com/in/shubhammeshram01/) | [Github](https://github.com/shubhammeshram01)
+|Textile Sales Analysis using MySQL|[PDF File](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/Textile%20SQL.pdf) | [SQL File](https://github.com/shubhammeshram01/Textiles-sales-analysis-using-MySQL/blob/main/my%20textile%20sales.sql) | [Linkedin](https://www.linkedin.com/in/shubhammeshram01/) | [Github](https://github.com/shubhammeshram01)
 
 
 ```
