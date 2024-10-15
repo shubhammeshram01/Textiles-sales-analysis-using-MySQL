@@ -1,4 +1,4 @@
-use texture_tales;
+use therma_tales;
 
 -- Total number of tables are 4 
 
